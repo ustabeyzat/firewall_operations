@@ -2,5 +2,6 @@
 Advanced Firewall Rule Manager Script v1.0 for Windows
 
 
-Uploading WATCHME.mp4…
+
+https://github.com/user-attachments/assets/8b65f08c-1e01-4fe5-bcd8-bf61944ff690
 
